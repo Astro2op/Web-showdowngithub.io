@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+</head>
+<body>
+
+    <h1>Welcome to Web Showdown</h1>
+    
+    <p>This is a paragraph of text on my web page.</p>
+    
+    <img src="https://via.placeholder.comgithub.io">
+    
+
+</body>
+</html>
